@@ -1,184 +1,165 @@
-<!-- @VOID · profile · dark cyber technical -->
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DankChamp/void/main/public/assets/hero.svg" alt="VOID — student, systems builder, co-founder of PX" width="100%" />
+</p>
 
-<!-- ───────────────────────────────────────────────  HEADER  ─────────────────────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1200&color=00FF9C&center=true&vCenter=true&random=false&width=620&height=72&lines=VOID;student+%E2%80%A2+builder+%E2%A2+R%26D+enthusiast;linux+%E2%80%A2+ai+%E2%80%A2+rust+%E2%80%A2+hardware" alt="VOID" />
+<p align="center">
+  <a href="https://dankchamp.github.io/void"><img alt="site" src="https://img.shields.io/badge/void-dankchamp.github.io%2Fvoid-0A0D0E?style=flat-square&labelColor=0A0D0E&logo=astro&logoColor=8AF5C0" /></a>
+  <img alt="role" src="https://img.shields.io/badge/PX-co--founder-0A0D0E?style=flat-square&labelColor=0A0D0E" />
+  <img alt="org" src="https://img.shields.io/badge/VOIDX-head-0A0D0E?style=flat-square&labelColor=0A0D0E" />
+  <img alt="status" src="https://img.shields.io/badge/status-building-0A0D0E?style=flat-square&labelColor=0A0D0E&logo=gnometerminal&logoColor=8AF5C0" />
+</p>
 
-<img src="https://img.shields.io/badge/Void_Linux-runit%20%2B%20XBPS-1c1c1c?style=for-the-badge&logo=linux&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/ThinkPad_T490-i7%208G%20%2F%2016GB-1c1c1c?style=for-the-badge&logo=thinkpad&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/status-building...-00FF9C?style=for-the-badge&label=%E2%96%88&labelColor=0d1117" />
+<p align="center">
+  <sub><samp>THE VOID IS NOT ABSENCE. IT IS THE ROOM LEFT FOR WHAT DOES NOT EXIST YET.</samp></sub>
+</p>
+
+---
+
+### <samp>01 · whoami</samp>
+
+I'm **VOID** — a student, systems builder, and co-founder of **PX**. I learn by building:
+working code first, theory second. I prefer lightweight, inspectable, open systems over
+heavy defaults, and I would rather understand a mechanism than accept it.
+
+I care about things that outlive the moment they were made — tools, notes, organizations,
+and the people who can keep them running without me in the room.
+
+```
+$ cat ~/.void
+  role      student · systems builder · co-founder
+  org       PX  →  VOIDX (the half I lead)
+  os        Void Linux · runit · XBPS
+  machine   ThinkPad T490 · i7-8th · 16 GB
+  focus     local-first AI · Linux internals · Rust · low-cost hardware
+  principle if a tool limits me for no reason, I want to know what is underneath it
+```
+
+---
+
+### <samp>02 · doctrine</samp>
+
+> **I.** Question what exists. Age, popularity, and authority are not arguments.
+> **II.** Understand before expanding. Small working parts before enormous architectures.
+> **III.** Build alternatives when the existing tool refuses to be understood.
+> **IV.** Make privacy structural, not a promise.
+> **V.** Separate identity from contribution; the work should be able to speak.
+> **VI.** Design for continuity. A system that dies with its creator was a demo.
+> **VII.** Build even without guaranteed cosmic meaning. The absence of a universal
+> purpose does not prevent deliberate creation.
+
+<details>
+<summary><samp>&nbsp;▸ read the rest of the manifesto</samp></summary>
 
 <br/>
 
-```
-> whoami
-VOID — student developer & R&D enthusiast
-> stack
-linux · ai/llms · rust · python · robotics · electronics · hardware
-> focus
-multi-agent AI ecosystem · automation · open-source · experimental eng
-```
+1. **Question what exists.** A system's age, popularity, or authority does not make it immune to examination.
+2. **Understand before expanding.** Build small working components before committing to enormous architectures.
+3. **Create alternatives.** When existing tools impose unnecessary limits, investigate whether a better tool can be built.
+4. **Protect identity where possible.** Personal identity and contribution do not have to be inseparable.
+5. **Make privacy structural.** Reduce unnecessary exposure instead of relying entirely on promises.
+6. **Develop people.** An organization grows through capable members, not merely through membership count.
+7. **Separate resource generation from resource investment.** FUND and BUILD serve different purposes and should reinforce each other.
+8. **Preserve knowledge.** Ideas, research, and decisions should survive beyond the moment in which they were created.
+9. **Prefer evidence to certainty without evidence.** Hypotheses should be tested, and conclusions should remain revisable.
+10. **Design for continuity.** Systems should not depend permanently on one person remembering everything or making every decision.
+11. **Respect constraints.** Hardware, time, money, and human capacity are real design parameters.
+12. **Build even without guaranteed cosmic meaning.** A lack of established universal purpose does not prevent deliberate creation.
+13. **Keep identity from eclipsing the work.** The founder can matter without becoming the only thing that matters.
+14. **Aim for independence without isolation.** Autonomy and collaboration can strengthen one another.
+15. **Leave systems more capable than they began.** Progress is not only what exists now, but what becomes possible afterward.
 
-</div>
-
----
-
-### `# philosophia`
-
-I learn by **building** — concepts through working code before theory. I prefer
-**lightweight, customizable, open-source** software and reject unnecessary bloat.
-Treat projects as long-term; automate the repetitive; understand how things
-actually work under the hood.
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/71577590/223751630-a6abbff7-1cc8-4a26-b797-a3d5cd5fa3f0.gif" width="320" alt="matrix-rain" />
-
-</div>
-
----
-
-### `# tech_armamentarium`
-
-<div align="center">
-
-<!-- core -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-&nbsp;
-<!-- systems -->
-<img src="https://img.shields.io/badge/Void_Linux-1c1c1c?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/GTK%204-libadwaita-4EAA25?style=flat-square&logo=gtk&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-&nbsp;
-<!-- ai / web -->
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-
-</div>
-
-<details>
-<summary>&nbsp;&nbsp;📖 <b>full stack & tools (expand)</b></summary>
-
-<div align="center">
-
-| category | | | |
-|---|---|---|---|
-| **languages** | Python | Rust | TypeScript | Shell |
-| **systems** | Void Linux | runit | XBPS | GTK 4 |
-| **ai** | Ollama | local LLMs | Vosk | Piper TTS |
-| **web** | FastAPI | React | Docker | PostgreSQL |
-| **hardware** | Raspberry Pi | LoRa | ESP32 | electronics |
-| **ops** | self-hosting | automation | CI/CD | Dependabot |
-
-</div>
 </details>
 
 ---
 
-### `# ai_ecosystem ⌬`
+### <samp>03 · lineage</samp>
 
-A personal multi-agent system — the long-term goal is an interconnected AI
-ecosystem and a second brain. Three agents, each scoped to a domain.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DankChamp/void/main/public/assets/lineage.svg" alt="PX lineage: PS Foundation → PX → two branches → planned PX III" width="100%" />
+</p>
 
-<table>
-<tr>
-<td width="33%" align="center">
+**PX is two halves. VOIDX is mine.**
 
-<a href="https://github.com/DankChamp/emma">
-<img src="https://img.shields.io/badge/Emma-personal%20OS-00FF9C?style=for-the-badge&logo=probot&logoColor=0d1117" />
-</a>
+PX began as **PS Foundation**, then became **PX Organization** — built by two founders who
+had been working together for years. When one of them left for college, the split was not an
+ending. It was a **2.5-year time skip**: two founders, two branches, growing separately on
+purpose, each proving the model on their own terms.
 
-**planning · management · routing**<br/>
-<sub>FastAPI · 4-tier memory · voice (Vosk ↔ Chatterbox) · dependency injection · Postgres-ready</sub>
+I lead **VOIDX** — half of PX, not a side project and not a sub-brand. The other half runs
+under **Hawk**. The recombination is already planned: not a merger back into the old shape,
+but a **third variant** — the version that only exists because both halves grew up first.
 
-</td>
-<td width="33%" align="center">
-
-<a href="https://github.com/DankChamp/luna">
-<img src="https://img.shields.io/badge/Luna-coding%20agent-00d4ff?style=for-the-badge&logo=probot&logoColor=0d1117" />
-</a>
-
-**software engineering agent**<br/>
-<sub>opencode-on-steroids · highly customizable · tool calling · agent orchestration · local-first</sub>
-
-</td>
-<td width="33%" align="center">
-
-<a href="https://github.com/DankChamp/aqua">
-<img src="https://img.shields.io/badge/Aqua-research%20agent-9d4edd?style=for-the-badge&logo=probot&logoColor=white" />
-</a>
-
-**study · research · academics**<br/>
-<sub>quizzes · knowledge capture · literature review · locally hosted · privacy-first</sub>
-
-</td>
-</tr>
-</table>
+| | branch | lead | state |
+|---|---|---|---|
+| `I` | PX — first branch | **Hawk** | growing independently |
+| `II` | **VOIDX** — second branch | **VOID** | growing independently · 50% of PX |
+| `III` | PX · III | both | planned recombination |
 
 ---
 
-### `# organizations & flagships`
+### <samp>04 · systems</samp>
 
-<div align="center">
+| system | what it is | stack | |
+|---|---|---|---|
+| **Emma** | personal AI OS — orchestration, memory, voice, scheduling | `Python` `FastAPI` `Ollama` `Vosk` | [repo](https://github.com/DankChamp/emma) |
+| **Luna** | coding agent — tool calling, sessions, local-first | `Python` `SQLAlchemy` `LLM APIs` | [repo](https://github.com/DankChamp/luna) |
+| **Aqua** | research → automation engine | `Python` `ChromaDB` `ONNX` | [repo](https://github.com/DankChamp/aqua) |
+| **Nebula** | GTK4 / libadwaita frontend for XBPS | `Rust` `GTK 4` `libadwaita` | [repo](https://github.com/DankChamp/nebula-gtk) |
+| **ntxt** | two-person realtime comms — voice, video, presence | `JS` `Firebase` `WebRTC` | private |
+| **DevPair** | collaborative task board + AI pair programming | `HTML` `JS` `PHP` `Groq` | [repo](https://github.com/DankChamp/dev-pair) |
+| **VOIDX OS** | the operating layer of the organization | `React` `FastAPI` `Postgres` | private |
 
-<a href="https://github.com/DankChamp/void-packages">
-<img src="https://img.shields.io/badge/PX_Organization-founder-00FF9C?style=for-the-badge&label=%E2%96%88&labelColor=0d1117" /></a>
-<a href="#hyperclutch">
-<img src="https://img.shields.io/badge/HyperClutch-gaming_platform-9d4edd?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+&labelColor=0d1117" /></a>
-<a href="#zappinnovate">
-<img src="https://img.shields.io/badge/ZappInnovate-COO-FFD700?style=for-the-badge&logo=robot&logoColor=0d1117&labelColor=0d1117" /></a>
-
-</div>
-
-| | role | focus |
-|---|---|---|
-| **PX Organization** | co-founder | software · AI · innovation · tech ventures |
-| **HyperClutch** | flagship · PX | gaming platform — site, app, tournaments, auth, notifications, future wallet |
-| **ZappInnovate** | COO | robotics workshops · STEM education |
-| **BroniqLabs** | lead web dev | web development & technology work |
+<sub>Two agents are not three chat windows. Each has its own process, configuration, memory,
+and job. A separate second brain is planned to connect them without collapsing them.</sub>
 
 ---
 
-### `# telemetry & stats`
+### <samp>05 · stack</samp>
 
-<div align="center">
-<!-- dark theme stats -->
-<a href="https://github.com/DankChamp">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DankChamp&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&ring_color=00FF9C&theme=radical" alt="VOID stats" />
-</a>
-<a href="https://github.com/DankChamp">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankChamp&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&theme=radical" alt="top langs" />
-</a>
-<br/><br/>
-<a href="https://github.com/DankChamp">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DankChamp&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=c9d1d9&theme=dark" alt="streak" />
-</a>
-<br/><br/>
-<!-- animated contribution snake — auto-generated by .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/DankChamp/DankChamp/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</div>
+```txt
+languages   Python · Rust · Bash · TypeScript · HTML/CSS
+systems     Void Linux · runit · XBPS · musl · GTK 4 · Docker
+ai          Ollama · local LLMs · tool calling · agents · RAG · ChromaDB
+backend     FastAPI · SQLAlchemy · Postgres · SQLite · WebSockets · Firebase
+frontend    Astro · Tailwind · React · HTMX
+hardware    ThinkPad T490 · ESP32 · Arduino · Raspberry Pi · LoRa
+```
 
----
-
-### `# extra_signal`
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=DankChamp&style=for-the-badge&color=00FF9C&label=visitors" />
-<img src="https://img.shields.io/github/followers/DankChamp?style=for-the-badge&color=00FF9C&label=followers" />
-<img src="https://img.shields.io/badge/focus-linux%20%7C%20ai%20%7C%20hardware-00FF9C?style=for-the-badge&label=%E2%96%88&labelColor=0d1117" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0A0D0E?style=flat-square&logo=python&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/Rust-0A0D0E?style=flat-square&logo=rust&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/Bash-0A0D0E?style=flat-square&logo=gnubash&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/TypeScript-0A0D0E?style=flat-square&logo=typescript&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/Void_Linux-0A0D0E?style=flat-square&logo=linux&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/GTK_4-0A0D0E?style=flat-square&logo=gtk&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/FastAPI-0A0D0E?style=flat-square&logo=fastapi&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0D0E?style=flat-square&logo=postgresql&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/Ollama-0A0D0E?style=flat-square&logo=ollama&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/Astro-0A0D0E?style=flat-square&logo=astro&logoColor=8AF5C0" />
+</p>
 
 ---
 
-<div align="center">
-<sub><code>~ $ git commit -m "build things, understand how they work"</code></sub><br/>
-<sub><b>VOID</b> — student · developer · builder · open-source maximalist</sub><br/>
-<sub>ThinkPad T490 · Void Linux · <code>runit</code> · local-first AI</sub><br/>
-<sub><i>"learn through actually making projects, not only studying theory."</i></sub>
-</div>
+### <samp>06 · signal</samp>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DankChamp&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0A0D0E&title_color=8AF5C0&icon_color=8AF5C0&text_color=8A9591&ring_color=8AF5C0" alt="stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankChamp&layout=compact&hide_border=true&bg_color=0A0D0E&title_color=8AF5C0&text_color=8A9591&langs_count=8" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DankChamp/void/output/github-snake-dark.svg" alt="contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://dankchamp.github.io/void"><img alt="portfolio" src="https://img.shields.io/badge/read-the%20long%20version-8AF5C0?style=for-the-badge&labelColor=0A0D0E" /></a>
+  <a href="https://github.com/DankChamp?tab=repositories"><img alt="repos" src="https://img.shields.io/badge/browse-repositories-0A0D0E?style=for-the-badge&labelColor=0A0D0E" /></a>
+  <a href="mailto:void@px.org"><img alt="mail" src="https://img.shields.io/badge/void%40px.org-0A0D0E?style=for-the-badge&logo=maildotru&logoColor=8AF5C0&labelColor=0A0D0E" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub><samp>~ $ git commit -m "build things, understand how they work"</samp></sub><br/>
+  <sub><samp>VOID · ThinkPad T490 · Void Linux · runit · local-first</samp></sub>
+</p>
