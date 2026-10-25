@@ -1,0 +1,41 @@
+name: sync readme from void
+
+# The profile README is mirrored from DankChamp/void (the source of truth).
+# Runs in this repo, so the default GITHUB_TOKEN is enough — no PAT needed.
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+        with:
+          repository: DankChamp/void
+          path: source
+          sparse-checkout: README.md
+          sparse-checkout-cone-mode: false
+
+      - name: Mirror README
+        run: |
+          set -euo pipefail
+          cp source/README.md README.md
+          git config user.name "void"
+          git config user.email "void@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "already up to date"
+            exit 0
+          fi
+          git commit -m "chore: sync profile from DankChamp/void"
+          git push
