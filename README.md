@@ -95,12 +95,12 @@ ending. It was a **2.5-year time skip**: two founders, two branches, growing sep
 purpose, each proving the model on their own terms.
 
 I lead **VOIDX** — half of PX, not a side project and not a sub-brand. The other half runs
-under **pash**. The recombination is already planned: not a merger back into the old shape,
+under **Hawk**. The recombination is already planned: not a merger back into the old shape,
 but a **third variant** — the version that only exists because both halves grew up first.
 
 | | branch | lead | state |
 |---|---|---|---|
-| `I` | PX — first branch | **pash** | growing independently |
+| `I` | PX — first branch | **Hawk** | growing independently |
 | `II` | **VOIDX** — second branch | **VOID** | growing independently · 50% of PX |
 | `III` | PX · III | both | planned recombination |
 
@@ -136,10 +136,8 @@ hardware    ThinkPad T490 · ESP32 · Arduino · Raspberry Pi · LoRa
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0A0D0E?style=flat-square&logo=python&logoColor=8AF5C0" />
-  <img src="https://img.shields.io/badge/JSON-0A0D0E?style=flat-square&logo=data%20uri&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/Rust-0A0D0E?style=flat-square&logo=rust&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/Bash-0A0D0E?style=flat-square&logo=gnubash&logoColor=8AF5C0" />
-  <img src="https://img.shields.io/badge/HTML/CSS-0A0D0E?style=flat-square&logo=html5&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/TypeScript-0A0D0E?style=flat-square&logo=typescript&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/Void_Linux-0A0D0E?style=flat-square&logo=linux&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/GTK_4-0A0D0E?style=flat-square&logo=gtk&logoColor=8AF5C0" />
@@ -171,13 +169,6 @@ hardware    ThinkPad T490 · ESP32 · Arduino · Raspberry Pi · LoRa
 <br/>
 
 <p align="center">
-  <sub><samp>~ $ git commit -m "build things, understand how they work"</samp></sub><br/>
-  <sub><samp>VOID · ThinkPad T490 · Void Linux · runit · local-first</samp></sub>
-</p>
-
-<br/>
-
-<p align="center">
   <a href="https://broniqlabs.com"><img alt="BroniqLabs" src="https://img.shields.io/badge/Broniqlabs-Head%20of%20Web%20Development-0A0D0E?style=flat-square&logo=ghost&logoColor=8AF5C0&labelColor=0A0D0E" /></a>
   <a href="https://pxhyperclutch.site"><img alt="pxhyperclutch" src="https://img.shields.io/badge/pxhyperclutch.site-PX%20flagship-0A0D0E?style=flat-square&logo=chrome&logoColor=8AF5C0&labelColor=0A0D0E" /></a>
   <a href="https://voidx-e4d9e.web.app"><img alt="VOIDX" src="https://img.shields.io/badge/VOIDX-official%20site-0A0D0E?style=flat-square&logo=firefox&logoColor=8AF5C0&labelColor=0A0D0E" /></a>
@@ -185,3 +176,7 @@ hardware    ThinkPad T490 · ESP32 · Arduino · Raspberry Pi · LoRa
 
 <br/>
 
+<p align="center">
+  <sub><samp>~ $ git commit -m "build things, understand how they work"</samp></sub><br/>
+  <sub><samp>VOID · ThinkPad T490 · Void Linux · runit · local-first</samp></sub>
+</p>
