@@ -28,11 +28,15 @@ and the people who can keep them running without me in the room.
 $ cat ~/.void
   role      student · systems builder · co-founder
   org       PX  →  VOIDX (the half I lead)
-  os        Void Linux · runit · XBPS
+  os        personal Linux · Void Linux minimal base · Linux kernel
   machine   ThinkPad T490 · i7-8th · 16 GB
   focus     local-first AI · Linux internals · Rust · low-cost hardware
   principle if a tool limits me for no reason, I want to know what is underneath it
 ```
+
+**My OS.** I run my own Linux build. It uses commercial **Void Linux** as a super-minimal
+base — the Linux kernel and a small foundation — and I layer the rest of the system on top,
+the same way Ubuntu is built on Debian. It is light, personal, and tuned to how I work.
 
 ---
 
@@ -91,12 +95,12 @@ ending. It was a **2.5-year time skip**: two founders, two branches, growing sep
 purpose, each proving the model on their own terms.
 
 I lead **VOIDX** — half of PX, not a side project and not a sub-brand. The other half runs
-under **Hawk**. The recombination is already planned: not a merger back into the old shape,
+under **pash**. The recombination is already planned: not a merger back into the old shape,
 but a **third variant** — the version that only exists because both halves grew up first.
 
 | | branch | lead | state |
 |---|---|---|---|
-| `I` | PX — first branch | **Hawk** | growing independently |
+| `I` | PX — first branch | **pash** | growing independently |
 | `II` | **VOIDX** — second branch | **VOID** | growing independently · 50% of PX |
 | `III` | PX · III | both | planned recombination |
 
@@ -122,25 +126,27 @@ and job. A separate second brain is planned to connect them without collapsing t
 ### <samp>05 · stack</samp>
 
 ```txt
-languages   Python · Rust · Bash · TypeScript · HTML/CSS
+languages   Python · JSON · Rust · Bash · HTML/CSS · a bit of TypeScript
 systems     Void Linux · runit · XBPS · musl · GTK 4 · Docker
-ai          Ollama · local LLMs · tool calling · agents · RAG · ChromaDB
-backend     FastAPI · SQLAlchemy · Postgres · SQLite · WebSockets · Firebase
-frontend    Astro · Tailwind · React · HTMX
+ai          Ollama · local LLMs · tool calling · agents · RAG · neural networks
+backend     FastAPI · SQLite · Firebase · Supabase · JSON
+frontend    HTMX · HTML · CSS
 hardware    ThinkPad T490 · ESP32 · Arduino · Raspberry Pi · LoRa
 ```
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0A0D0E?style=flat-square&logo=python&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/JSON-0A0D0E?style=flat-square&logo=data%20uri&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/Rust-0A0D0E?style=flat-square&logo=rust&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/Bash-0A0D0E?style=flat-square&logo=gnubash&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/HTML/CSS-0A0D0E?style=flat-square&logo=html5&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/TypeScript-0A0D0E?style=flat-square&logo=typescript&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/Void_Linux-0A0D0E?style=flat-square&logo=linux&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/GTK_4-0A0D0E?style=flat-square&logo=gtk&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/FastAPI-0A0D0E?style=flat-square&logo=fastapi&logoColor=8AF5C0" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0A0D0E?style=flat-square&logo=postgresql&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/Supabase-0A0D0E?style=flat-square&logo=supabase&logoColor=8AF5C0" />
   <img src="https://img.shields.io/badge/Ollama-0A0D0E?style=flat-square&logo=ollama&logoColor=8AF5C0" />
-  <img src="https://img.shields.io/badge/Astro-0A0D0E?style=flat-square&logo=astro&logoColor=8AF5C0" />
+  <img src="https://img.shields.io/badge/HTMX-0A0D0E?style=flat-square&logo=htmx&logoColor=8AF5C0" />
 </p>
 
 ---
@@ -168,3 +174,13 @@ hardware    ThinkPad T490 · ESP32 · Arduino · Raspberry Pi · LoRa
   <sub><samp>~ $ git commit -m "build things, understand how they work"</samp></sub><br/>
   <sub><samp>VOID · ThinkPad T490 · Void Linux · runit · local-first</samp></sub>
 </p>
+
+<br/>
+
+<p align="center">
+  <a href="https://broniqlabs.com"><img alt="BroniqLabs" src="https://img.shields.io/badge/Broniqlabs-Head%20of%20Web%20Development-0A0D0E?style=flat-square&logo=ghost&logoColor=8AF5C0&labelColor=0A0D0E" /></a>
+  <a href="https://voidx-e4d9e.web.app"><img alt="VOIDX" src="https://img.shields.io/badge/VOIDX-official%20site-0A0D0E?style=flat-square&logo=firefox&logoColor=8AF5C0&labelColor=0A0D0E" /></a>
+</p>
+
+<br/>
+
